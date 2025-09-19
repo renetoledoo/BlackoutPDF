@@ -22,7 +22,7 @@ Este endpoint recebe um PDF para processamento.
 {
   "path": "string (URL para download do PDF)"
 }
-
+```
 **Responses**
 
 **200 Successful Response**
@@ -32,3 +32,4 @@ Este endpoint recebe um PDF para processamento.
   "status": true,
   "data": "2025-09-19T01:30:28.644686"
 }
+```
