@@ -6,6 +6,9 @@
 
 O **BlackoutPDF** é uma ferramenta para processamento de arquivos PDF, com foco na detecção e ocultação de **Informações Pessoais Sensíveis (PII)**, como nomes e CPFs. Este projeto é um protótipo inicial para demonstração.
 
+<img width="302" height="74" alt="Captura de tela 2025-09-19 004439" src="https://github.com/user-attachments/assets/d2841c15-f413-4478-9adb-3d47ba38dd12" />
+
+
 ## Funcionalidades
 - Recebe arquivos PDF para processamento.
 - Remove ou oculta informações de identificação pessoal (PII) como **CPF** e **Nome**.
